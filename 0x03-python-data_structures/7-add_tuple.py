@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 7-add_tuple.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def add_tuple(tuple_a=(), tuple_b=()):
