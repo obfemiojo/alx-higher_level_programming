@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 9-max_integer.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def max_integer(my_list=[]):
