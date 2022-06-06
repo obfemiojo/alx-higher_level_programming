@@ -1,6 +1,6 @@
 /*
  * File: 100-print_python_list_info.c
- * Author: Ukonu Divine Chisom
+ * Author: Ojo Obafemi David
  */
 
 #include <Python.h>
