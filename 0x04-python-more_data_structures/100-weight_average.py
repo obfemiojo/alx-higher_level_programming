@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-weight_average.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def weight_average(my_list=[]):
