@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 9-multiple_by_2.py
-# Ojo Obafemi David
+# Ojo Obafemi  David
 
 
 def multiply_by_2(a_dictionary):
