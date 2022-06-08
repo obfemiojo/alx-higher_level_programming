@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-square_matrix_simple.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def square_matrix_simple(matrix=[]):
