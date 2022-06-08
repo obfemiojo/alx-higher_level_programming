@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 10-best_score.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def best_score(a_dictionary):
