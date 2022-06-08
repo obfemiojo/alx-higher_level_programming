@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-only_diff_elements.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def only_diff_elements(set_1, set_2):
