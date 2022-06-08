@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 6-print_sorted_dictionary.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def print_sorted_dictionary(a_dictionary):
