@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 12-roman_to_int.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def roman_to_int(roman_string):
