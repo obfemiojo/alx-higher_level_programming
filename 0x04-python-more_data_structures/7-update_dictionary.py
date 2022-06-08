@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 7-update_dictionary.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def update_dictionary(a_dictionary, key, value):
