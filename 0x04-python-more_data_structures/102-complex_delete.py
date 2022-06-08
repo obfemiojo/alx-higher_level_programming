@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-complex_delete.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def complex_delete(a_dictionary, value):
