@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 1-search_replace.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def search_replace(my_list, search, replace):
