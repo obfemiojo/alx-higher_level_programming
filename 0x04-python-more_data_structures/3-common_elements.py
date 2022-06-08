@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-common_elements.py
-# Ukonu Divine Chisom
+# Ojo Obafemi David
 
 
 def common_elements(set_1, set_2):
