@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
-
+# Ojo Obafemi David
 
 def magic_calculation(a, b):
     result = 0
